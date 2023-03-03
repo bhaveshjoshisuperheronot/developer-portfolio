@@ -3,7 +3,7 @@ export const experienceData = [
         id: 1,
         company: 'Zarca Interactive Pvt Ltd',
         jobtitle: 'UI Developer',
-        startYear: 'Jul 2018',
+        startYear: 'Jul 2017',
         endYear: 'Oct 2020'
     },
     {
