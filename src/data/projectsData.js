@@ -14,15 +14,6 @@ export const projectsData = [
         image: three
     },
     {
-        id: 2,
-        projectName: 'Rotaract Mumbai 3142',
-        projectDesc: 'This website provides all details and information of the organisation. It is a place where all clubs submit their projects reports.',
-        tags: ['Frappe', 'JS', 'CSS'],
-        code: '',
-        demo: 'https://rotaract3142.org/home',
-        image: ten
-    },
-    {
         id: 3,
         projectName: 'SogoSurvey',
         projectDesc: 'This is the video library of the company and shows all the videos in the userguide.',
@@ -30,6 +21,15 @@ export const projectsData = [
         code: '',
         demo: 'https://www.sogolytics.com/help/videos/',
         image: four
+    },
+    {
+        id: 2,
+        projectName: 'Pokedex',
+        projectDesc: 'This standalone webpage was created to load and display list of Pokemons using API calls.',
+        tags: ['React', 'JS', 'CSS'],
+        code: '',
+        demo: 'https://illustrious-arithmetic-f90cfa.netlify.app/',
+        image: ten
     },
 ]
 

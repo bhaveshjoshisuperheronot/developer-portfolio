@@ -47,9 +47,9 @@ function Projects() {
         <>
             {projectsData.length > 0 && (
                 <div className="projects" id="projects" style={{backgroundColor: theme.secondary}}>
-                    {/* <div className="projects--header">
+                    <div className="projects--header">
                         <h1 style={{color: theme.primary}}>Projects</h1>
-                    </div> */}
+                    </div>
                     <div className="projects--body">
                         <div className="projects--bodyContainer">
                             {projectsData.slice(0, 3).map(project => (
